@@ -1,0 +1,11 @@
+C:\dev\Project_Euler\project-euler\project-euler-p2\obj\Debug\netcoreapp2.2\project-euler-p2.csprojAssemblyReference.cache
+C:\dev\Project_Euler\project-euler\project-euler-p2\obj\Debug\netcoreapp2.2\project-euler-p2.csproj.CoreCompileInputs.cache
+C:\dev\Project_Euler\project-euler\project-euler-p2\obj\Debug\netcoreapp2.2\project-euler-p2.AssemblyInfoInputs.cache
+C:\dev\Project_Euler\project-euler\project-euler-p2\obj\Debug\netcoreapp2.2\project-euler-p2.AssemblyInfo.cs
+C:\dev\Project_Euler\project-euler\project-euler-p2\bin\Debug\netcoreapp2.2\project-euler-p2.deps.json
+C:\dev\Project_Euler\project-euler\project-euler-p2\bin\Debug\netcoreapp2.2\project-euler-p2.runtimeconfig.json
+C:\dev\Project_Euler\project-euler\project-euler-p2\bin\Debug\netcoreapp2.2\project-euler-p2.runtimeconfig.dev.json
+C:\dev\Project_Euler\project-euler\project-euler-p2\bin\Debug\netcoreapp2.2\project-euler-p2.dll
+C:\dev\Project_Euler\project-euler\project-euler-p2\bin\Debug\netcoreapp2.2\project-euler-p2.pdb
+C:\dev\Project_Euler\project-euler\project-euler-p2\obj\Debug\netcoreapp2.2\project-euler-p2.dll
+C:\dev\Project_Euler\project-euler\project-euler-p2\obj\Debug\netcoreapp2.2\project-euler-p2.pdb
